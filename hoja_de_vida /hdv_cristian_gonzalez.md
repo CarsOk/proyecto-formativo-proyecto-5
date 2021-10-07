@@ -1,6 +1,6 @@
 # hoja de vida
 
- <img src="image.jpeg" witdth="100">
+ <img src="img\image.jpeg" witdth="10">
 
 ## Datos basicos 
 

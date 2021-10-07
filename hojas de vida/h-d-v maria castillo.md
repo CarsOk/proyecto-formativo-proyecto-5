@@ -1,5 +1,3 @@
-
-
 # hoja de vida maria 
 
 <img src="img/IMG-20210529-WA0004 (2).jpg">

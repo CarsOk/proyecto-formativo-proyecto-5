@@ -1,4 +1,3 @@
-
 # definicion 
 nuestro proyecto consiste en analizar, diseñar, desarrollar e implimentar un aplicativo web para el control de ventas y por medio de este dar a conocer el negocio y los productos que ofrece la microempresa o dulceria el parque.
  
@@ -17,11 +16,3 @@ Sistematizar la información y el orden de ventasde la microempresa  dulceria pa
 ° Ana Wilches
  °Angie de la Cruz 
  °Ronnie rodriguez
-
- 
-
-## visión de proyecto 
-
-Se quiere alcanzar la sistematización de la ganancia e inventarios de la microempresa atravez de este proyecto se pretende mantener un mejor proceso del control de las ventas que se realizara actualmente en la dulceria parque
-
-

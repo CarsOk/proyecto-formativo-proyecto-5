@@ -1,6 +1,6 @@
 # hoja de vida
 
- <img src="img\image.jpeg" witdh="200" height="200">
+ <img src="img\image.jpeg" witdth="10">
 
 ## Datos basicos 
 
@@ -13,7 +13,7 @@
 ## estudios realizados
 
 ### basica primaria 
-- I.E.D La milagrosa fe y alegria .
+- I.E.D La milagrosa fe y alegria
 
 ### bachiller tecnico
 - I.E.D La Milagrosa Fe y alegria - 2019

@@ -16,3 +16,4 @@ Sistematizar la información y el orden de ventasde la microempresa  dulceria pa
 ° Ana Wilches
  °Angie de la Cruz 
  °Ronnie rodriguez
+° luis escorcia 

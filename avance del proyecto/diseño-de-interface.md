@@ -39,3 +39,26 @@ investigar con otras fuentes de ser necesario.
 5. Utilizar en el diseño los objetos de acuerdo al prototipo que realizó.
 6. Exportar los archivos a formato JPG o PNG al documento .doc.
 7. Guardar el archivo en una carpeta para ser enviado al Tutor.
+
+
+Realizar los siguientes ejercicios:
+
+PRIMER ENUNCIADO: diseñar la interfaz de usuario para la captura de los datos de un
+libro que debe ser registrado en la biblioteca.
+
+<img src="img/interfaz1.png">
+
+SEGUNDO ENUNCIADO: diseñar la interfaz de usuario para la captura de los datos del
+registro de una persona en un hotel.
+
+<img src="img/interfaz2.png">
+
+TERCER ENUNCIADO: diseñar la interfaz de usuario para la captura de datos cuando
+una persona compra un tiquete para un vuelo nacional.
+
+<img src="img/interfaz3.png">
+
+CUARTO ENUNCIADO: diseñar una interfaz de usuario para un sistema de votación que
+incluye tres (3) candidatos, uno de ellos corresponde al voto en blanco.
+
+<img src="img/interfaz4.png">

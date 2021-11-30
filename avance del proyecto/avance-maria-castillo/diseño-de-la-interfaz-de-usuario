@@ -1,0 +1,130 @@
+# DISEÑO DE LA INTERFAZ DE USUARIO
+
+El diseño de la interfaz de usuario crea un medio eficaz de comunicación entre los
+seres humanos y la computadora. Siguiendo un conjunto de principios de diseño de
+la interfaz, el diseño identifica los objetos y acciones de ésta y luego crea una
+pantalla que constituye la base del prototipo de la interfaz de usuario
+
+
+## ¿Cuáles son los pasos?
+
+El diseño de la interfaz de usuario comienza con la identificación de los
+requerimientos del usuario, la tarea y el ambiente. Una vez identificadas las tareas
+del usuario, se crean y analizan los escenarios para éste y se define un conjunto de
+objetos y acciones de la interfaz. Esto forma la base para crear una plantilla de la
+pantalla que ilustra el diseño gráfico y la colocación de los iconos, la definición de
+textos descriptivos, la especificación y títulos de las ventanas, y la especificación de
+aspectos mayores y menores del menú. Con el empleo de herramientas, se hace el
+prototipo, se implementa en definitiva el modelo del diseño y se evalúa la calidad
+del resultado.
+
+
+
+El plano de una casa (su diseño arquitectónico) no está completo sin la
+representación de puertas, ventanas y conexiones de servicios para el agua,
+electricidad y teléfono (por no mencionar la televisión por cable). Las «puertas,
+ventanas y conexiones de servicios» del software informático es lo que constituye
+el diseño de la interfaz de usuario
+El diseño de la interfaz se centra en tres áreas de interés:
+
+(1) el diseño de la interfaz entre los componentes del software;
+(2) el diseño de las interfaces entre el software y los otros productores y
+consumidores de información no humanos (esto es, otras entidades externas) y
+(3) el diseño de la interfaz entre el hombre (esto es, el usuario) y la computadora
+3.5.1 REGLAS DE DISEÑO DE LA INTERFAZ DEL USUARIO
+Existen tres reglas de oro para el diseño de la interfaz:
+
+1. Dejar el control al usuario
+La mayor parte de las restricciones y limitaciones impuestas por el diseñador se
+han pensado para simplificar el modo de interacción. Pero ¿para quienes? En
+muchos casos es posible que el diseñador introduzca limitaciones y restricciones
+para simplificar la implementación de la interfaz. Y el resultado puede ser una
+interfaz fácil de construir, pero frustrante de utilizar.
+Se definirán una serie de principios de diseño que permiten que el usuario tenga el
+control:
+• Definir los modos de interacción de manera que no obligue a que el usuario
+realice acciones innecesarias o no deseadas.
+• Tener en consideración una interacción flexible.
+• Permitir que la interacción del usuario sea interrumpible y también
+reversible.
+• Facilitar la interacción a medida que aumenta la habilidad y permitir que
+aquella se personalice.
+• Ocultar los tecnicismos internos al usuario ocasional.
+• Diseñar la interacción directa con objetos que aparezcan en la pantalla.
+2. Reducir la necesidad de que el usuario memorice
+Cuanto más tenga que recordar un usuario, más propensa a errores será su
+interacción con el sistema. Esta es la razón por la que una interfaz de usuario bien
+diseñada no pondrá a prueba la memoria del usuario. Siempre que sea posible, el 
+sistema deberá «recordar» la información pertinente y ayudar a que el usuario
+recuerde mediante un escenario de interacción, se definen los principios de diseño
+que hacen posible que una interfaz reduzca la carga de memoria del usuario:
+• Reducir la demanda de memoria a corto plazo.
+Cuando los usuarios se ven involucrados en tareas complejas, exigir una memoria
+a corto plazo puede ser significativo. La interfaz se deberá diseñar para reducir los
+requisitos y recordar acciones y resultados anteriores.
+• Hacer que lo preestablecido sea significativo.
+El conjunto inicial de valores por defecto tendrá que ser de utilidad para al usuario,
+pero un usuario también deberá tener la capacidad de especificar sus propias
+preferencias.
+• Definir atajos que sean intuitivos. Cuando para diseñar un sistema se utiliza
+la mnemónica (por ejemplo, alt-P para invocar la función de imprimir), ésta
+deberá ir unida a una acción que sea fácil de recordar (por ejemplo, la primera
+letra de la tarea que se invoca).
+• La distribución visual de la interfaz debe basarse en una metáfora del mundo
+real. Por ejemplo, en un sistema de pago de facturas se deberá utilizar la
+metáfora de la chequera y el registro del cheque para conducir al usuario por
+el proceso del pago de facturas.
+• Revelar información de manera progresiva.
+La interfaz debe estar organizada de manera jerárquica. Es decir, la información
+acerca de una tarea, objeto o comportamiento debe presentarse primero en un nivel
+de generalización elevado. Después de que con el ratón el usuario manifieste
+interés, deben darse más detalles. Por ejemplo, para muchas aplicaciones de
+procesamiento de textos, se tiene la función de subrayar. La función en sí es una
+de varias en el menú estilo del texto. No obstante, no se enlista cada una de las 
+herramientas para subrayar. El usuario debe hacer clic en la opción de subrayar;
+después se presentan todas las opciones para esta función (una raya, doble raya,
+línea punteada, etc.).
+3. Hacer consistente la interfaz.
+La interfaz debe presentar y obtener información en forma consistente. Esto implica:
+1) que toda la información se organice de acuerdo con reglas de diseño que se
+respeten en todas las pantallas desplegadas, 2) que los mecanismos de entrada se
+limiten a un conjunto pequeño usado en forma consistente en toda la aplicación, y
+
+3) que los mecanismos para pasar de una tarea a otra se definan e implementen de
+modo consistente.
+Estas reglas de oro forman en realidad la base para los principios del diseño de la
+interfaz de usuario que servirán de guía para esta actividad de diseño de software
+tan importante.
+
+3.5.2 ESQUEMAS DE MENU
+Los menús proporcionan a los usuarios una forma sencilla y familiar de recuperar
+información e interactuar con el sistema. A los usuarios se les presenta el diseño
+completo del sistema a través de un esquema en forma descendente, donde se
+muestran las distintas opciones que el sistema tendrá.
+Una característica principal de los menús consiste típicamente en llevar al usuario
+a través de una serie de submenús que le proporcionan una diversidad de opciones.
+En el esquema de menús, es importante dejar claros los diferentes subsistemas que
+contendrá el sistema, cada opción importante que le corresponde, como por ejemplo
+adición, modificación, eliminación de registros, copias de seguridad,
+actualizaciones, etc.
+Además de ello, es importante reflejar el tipo de información que se podrá consultar
+o los reportes que se pueden generar.
+Los menús reducen la necesidad de capacitación y memorización sintáctica y
+aumentan el conocimiento semántico relevante para las tareas de los usuarios.
+La clasificación de los esquemas de menú puede ser sencillo, en serie, en árbol, en
+red e integrado.
+Los menús son un camino excelente que les permiten a los usuarios seleccionar
+elementos de una lista, pero algunas tareas como la captura de datos no son
+manejadas muy bien mediante menús.
+Para este caso el mejor método de diseño es el llenado de formas.
+
+3.5.3 DISEÑO DE PANTALLAS
+Las formas se utilizan como una herramienta para hacer que el trabajo se realice e
+introducir datos al sistema.
+Al hacer un análisis de formas, se debe determinar qué datos se trata de capturar,
+cómo se clasificarán e introducirán en la forma, quién capturará los datos y con qué
+fin, quién obtendrá una copia, qué debe aparecer en las copias, bajo qué
+condiciones se llenará la forma, cómo se manejará, y durante cuánto tiempo se
+archivará.
+Las formas en papel siguen siendo los vehículos principales empleados 
+
